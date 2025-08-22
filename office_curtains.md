@@ -1,5 +1,3 @@
-Office Curtains - Idea Exploration Template
-
 1. Initial Idea
    
 What did I observe?
