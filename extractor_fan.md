@@ -1,17 +1,25 @@
 1. Initial Idea 
 What did I observe?
 
+I observed the extractor fan in the kitchen. It has five buttons in total: one to switch it off, three numbered buttons (1, 2, and 3) that control
+the speed levels, and a final button with a light indicator. The fan’s design highlights input/output choices and varying intensities of control.
 
-2. What metaphor, image, or word came to mind?
+3. What metaphor, image, or word came to mind?
 
-Triggers, Levers, Springs, Connections, Electrical impulses, 180-degree rotation, Automatic manipulation, Data filter (data comes in and out).
+Triggers, Levers, Springs, Connections, Electrical impulses, 180-degree rotation, 
+Automatic manipulation, Data filter (data comes in and out).
+
 3. Date and context (where were you, what were you doing?)
 
-August 21st – I was in the kitchen and saw the extractor fan. It has five buttons: 1 off, 3 with numbers (1, 2, 3), and the last one with a light on.
+On August 21st, I was in the kitchen preparing food. While standing near the extractor fan, 
+I became curious about its interface and how the buttons controlled airflow. Being in a reflective
+mindset, I began to notice how this simple household device resembled decision-making systems, 
+where each option changes the output dynamically.
 
 4. Connections Map
 
-Related concepts: AI, Automation, Workflow optimization, Neural networks, Decision-making systems, Control mechanisms.
+Related concepts: AI, Automation, Workflow optimization, 
+Neural networks, Decision-making systems, Control mechanisms.
 
 Diagram / List of connections:
 
